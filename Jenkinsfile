@@ -25,7 +25,4 @@ pipeline {
     }
 
   }
-  environment {
-    GIT_ASKPASS = '3f2e19993e3506d569f85902129e6d592526c08c'
-  }
 }
